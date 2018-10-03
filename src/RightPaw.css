@@ -1,0 +1,11 @@
+.RightPaw {
+    position: absolute;
+    top: 52px;
+    right: 52px;
+    z-index: 999999;
+}
+
+.RightPaw.Pressed {
+    top: 46px;
+    right: 79px;
+}

@@ -1,0 +1,11 @@
+.LeftPaw {
+    position: absolute;
+    top: -52px;
+    left: 52px;
+    z-index: 999999;
+}
+
+.LeftPaw.Pressed {
+    top: -45px;
+    left: 82px;
+}   
