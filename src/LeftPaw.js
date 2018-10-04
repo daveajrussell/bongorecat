@@ -23,9 +23,9 @@ export class LeftPaw extends Component  {
             paw;
 
         if (isBonged) {
-            paw = <img src={pressed} alt="" />
+            paw = <img src={pressed} alt="left paw pressed" />
         } else {
-            paw = <img src={unpressed} alt="" />
+            paw = <img src={unpressed} alt="left paw unpressed" />
         }
         
         return (

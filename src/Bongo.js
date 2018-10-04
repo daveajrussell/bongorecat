@@ -6,7 +6,7 @@ export class Bongo extends Component {
     render() {
         return (
             <div className="Bongo">
-                <img src={bongo} alt="" />
+                <img src={bongo} alt="bongo" />
             </div>
         )
     }

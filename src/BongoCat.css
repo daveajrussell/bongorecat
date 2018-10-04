@@ -1,0 +1,10 @@
+.BongoCatContainer {
+  width: 540px;
+  height: 353px;
+  margin: 0 auto;
+}
+
+.BongoCat {
+  position: relative;
+  color: white;
+}

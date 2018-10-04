@@ -22,9 +22,9 @@ export class RightPaw extends Component {
             paw;
 
         if (isBonged) {
-            paw = <img src={pressed} alt="" />
+            paw = <img src={pressed} alt="right paw pressed" />
         } else {
-            paw = <img src={unpressed} alt="" />
+            paw = <img src={unpressed} alt="right paw unpressed" />
         }
         
         return (
